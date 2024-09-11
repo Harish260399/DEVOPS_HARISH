@@ -1,3 +1,4 @@
 # DEVOPS_HARISH
 BITS-DEVOPS
-git checkout -b <branch-name>
+git checkout -b Production
+git checkout -b development
